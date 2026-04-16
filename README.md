@@ -1,2 +1,4 @@
-while True:
-    print("hello world")
+"""
+Provide all program objects
+Include the logic of the calculator
+"""
